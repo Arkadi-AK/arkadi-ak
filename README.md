@@ -12,5 +12,6 @@
 
 * <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/python-logo.png" width="250px" height="100px"/></p>
 * <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG" width="250px" height="100px"/></p>
-* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_docker.PNG" width="250px" height="100px"/></p>
-* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_postgres.PNG" width="250px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_DRF.png" width="250px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_docker.png" width="150px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_postgres.png" width="250px" height="100px"/></p>
