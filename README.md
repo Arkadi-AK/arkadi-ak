@@ -10,4 +10,4 @@
 
 My stack:
 * ![alt text](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/python-logo.png "Python")
-* ![alt text]<img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG" width="250px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG" width="250px" height="100px"/></p>
