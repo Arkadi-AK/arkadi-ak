@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I am currently actively learning Python, Django, DRF, PostgreSQL, Docker
-- 👯 I'm looking to collaborate on Python community
+- 👯 I'm looking to collaborate on Python community.
 - 🤔 I will not refuse help in mentoring. I will be happy to carry out the tasks assigned to me.
 - 📫 How to reach me: TG @Arkadi_AK
 -->
