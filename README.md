@@ -8,6 +8,7 @@
 - 🤔 I will not refuse help in mentoring. I will be happy to carry out the tasks assigned to me.
 - 📫 How to reach me: TG @Arkadi_AK
 
-My stack:
+<h2>My stack:</h2>
+
 * ![alt text](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/python-logo.png "Python")
 * <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG" width="250px" height="100px"/></p>
