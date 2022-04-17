@@ -10,6 +10,13 @@
 <h2>My stack:</h2>
 
 
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/python-logo.png" width="300px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG" width="250px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_DRF.png" width="250px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_docker.png" width="150px" height="100px"/></p>
+* <img src="https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_postgres.png" width="250px" height="100px"/></p>
+
+
 ![python](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/python-logo.png)
 ![django](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG)
 ![django_DRF](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_DRF.png)
