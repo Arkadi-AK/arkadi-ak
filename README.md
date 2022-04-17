@@ -9,5 +9,5 @@
 - 📫 How to reach me: TG @Arkadi_AK
 
 My stack:
-* ![alt text](images\python-logo.png "Python")
-* ![alt text](images\Django.PNG "Django")
+* ![alt text](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/python-logo.png "Python")
+* ![alt text](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG "Django")
