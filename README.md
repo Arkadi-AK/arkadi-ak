@@ -1,8 +1,6 @@
-### Hi there Arkadi ! 👋👋👋
+<h1 align="center"> ### Hi! Arkadi is here ! 👋👋👋 </h1>
 
-**Arkadi-AK/arkadi-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I'm currently looking for a job as a Python developer
 - 🌱 I'm currently actively learning Python, Django, DRF, PostgreSQL, Docker
