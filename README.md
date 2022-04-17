@@ -9,9 +9,12 @@
 
 <h2>My stack:</h2>
 
-![python](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/python-logo.png)
-![django](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/Django.PNG)
-![django_DRF](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_DRF.png)
-![Docker](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_docker.png)
-![Postgres](https://github.com/Arkadi-AK/arkadi-ak/blob/main/images/logo_postgres.png)
+
+![python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![dlango](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![dlango_drf](https://img.shields.io/badge/DJANGO_REST_FRAMEWORK-7f2d2d?style=for-the-badge&logo=django_rest_framework&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![docker-compose](https://img.shields.io/badge/docker_compose-2CA5E0?style=for-the-badge&logo=docker-compose&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yellow)
 
