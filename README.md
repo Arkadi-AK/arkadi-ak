@@ -1,6 +1,5 @@
 <h1 align="center"> Hi! Arkadi is here ! 👋 </h1>
-
-
+<h2 align="center"> Python Backend Developer </h2>
 
 - 🔭 I'm currently looking for a job as a Python developer
 - 🌱 I'm currently actively learning Python, Django, DRF, PostgreSQL, Docker
