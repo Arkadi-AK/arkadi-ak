@@ -1,4 +1,4 @@
-<h1 align="center"> ### Hi! Arkadi is here ! 👋👋👋 </h1>
+<h1 align="center"> Hi! Arkadi is here ! 👋 </h1>
 
 
 
