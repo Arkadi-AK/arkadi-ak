@@ -17,4 +17,5 @@
 ![docker-compose](https://img.shields.io/badge/docker_compose-2CA5E0?style=for-the-badge&logo=docker-compose&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux&logoColor=yellow)
-
+![celery](https://img.shields.io/badge/celery-black?style=for-the-badge&logo=celery&logoColor=yellow)
+![redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=yellow)
